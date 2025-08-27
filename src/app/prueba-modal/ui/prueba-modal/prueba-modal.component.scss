@@ -1,0 +1,13 @@
+.ui-picklist-list {
+  display: flex;
+  flex-wrap: wrap;   /* opcional: permite que baje a otra fila si no cabe */
+}
+
+.horizontal-item {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-width: 100px;
+  text-align: center;
+}
